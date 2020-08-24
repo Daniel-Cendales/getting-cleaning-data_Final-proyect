@@ -1,5 +1,4 @@
-Getting and Cleaning Data - Final Project
-==========================================
+# *Getting and Cleaning Data - Final Project*
 
 # The data
 
@@ -13,12 +12,6 @@ that recollect some information (recorded in the tables x_test, x_train)
 * Extract measurements on the mean and standard deviation for each measurement.
 * Give appropieate names to the three tables merged (the columns that we choose in the previous step) 
 * Create a second a data set with the average of each variable for each activity and each subject.
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
 
 
 # Descriptions
